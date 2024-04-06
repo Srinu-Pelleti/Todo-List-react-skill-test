@@ -9,7 +9,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: orange;
+    background-image: linear-gradient(yellow,green);
     /* border: 2px solid green; */
     padding: 10px;
 }
@@ -17,7 +17,7 @@
 .todo-app{
     width: 100%;
     max-width: 540px;
-    background: white;
+    background: gray;
     border: 2px solid black;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
